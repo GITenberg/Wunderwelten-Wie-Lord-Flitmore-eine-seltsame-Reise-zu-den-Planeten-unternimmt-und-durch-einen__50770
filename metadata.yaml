@@ -1,15 +1,21 @@
 _repo: Wunderwelten-Wie-Lord-Flitmore-eine-seltsame-Reise-zu-den-Planeten-unternimmt-und-durch-einen__50770
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Egler, Willi
     gutenberg_agent_id: '46075'
     url: http://www.gutenberg.org/2009/agents/46075
+covers:
+- cover_type: archival
+  image_path: 50770-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Mader, Friedrich Wilhelm
     gutenberg_agent_id: '46074'
     url: http://www.gutenberg.org/2009/agents/46074
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50770#Wunderwelten-Wie-Lord-Flitmore-eine-seltsame-Reise-zu-den-Planeten-unternimmt-und-durch-einen_
 gutenberg_issued: '2015-12-26'
 gutenberg_type: Text
 identifiers:
