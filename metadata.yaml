@@ -24,6 +24,8 @@ language: de
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Wunderwelten
 
   Wie Lord Flitmore eine seltsame Reise zu den Planeten
